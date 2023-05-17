@@ -25,7 +25,7 @@ SECRET_KEY = 'm7757tfa4t=!#52_m1g6n8h(5_5-2@r8q$_3js367+0!4$d%-*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0','192.168.49.2','django.cloud']
+ALLOWED_HOSTS = ['0.0.0.0','192.168.49.2','django.alkaifdevops.cloud']
 
 
 # Application definition

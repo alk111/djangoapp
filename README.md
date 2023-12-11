@@ -9,7 +9,7 @@ python -m venv venv
 
 source venv/bin/activate
 
-pip install -r requirements.txt
+pip install -r req.txt
 
 python manage.py migrate
 
